@@ -86,7 +86,7 @@ Add cloud database (MySQL/PostgreSQL)
 
 🙌 Author
 Made with ❤️ by Laksh Vyas
-📧 lakshvyas.dev@gmail.com
+📧 lakshvyas462006@gmail.com
 
 📜 License
 This project is open-source and available under the MIT License.
